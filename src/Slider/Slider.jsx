@@ -1,4 +1,4 @@
-import React, {useState } from 'react'
+import React from 'react'
 import "react-responsive-carousel/lib/styles/carousel.min.css"; 
 import { Carousel } from 'react-responsive-carousel';
 
@@ -6,12 +6,7 @@ import "./Slider.css";
 
 const Slider = () => {
 
-    const data =  [
-        "./image/alexander-mils-lCPhGxs7pww-unsplash.jpg",
-        "./image/cytonn-photography-n95VMLxqM2I-unsplash.jpg",
-        "./image/microsoft-edge-4m2-9Kyd1i4-unsplash.jpg",
-    ];
-
+  
     
 
   return (
