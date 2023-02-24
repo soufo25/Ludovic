@@ -12,9 +12,9 @@ function AboutUs() {
     <>
     <div className='about-wrapper'>
       <div className="experts">
-        <icon>
+        
           <EmojiPeopleRoundedIcon />
-        </icon>
+      
           <h2>
            Definitive Expertise
           </h2>
@@ -22,9 +22,9 @@ function AboutUs() {
             ,practical experience, we build strategies and systems </p>
       </div>
       <div className="experts">
-        <icon>
+        
           <GroupIcon />
-        </icon>
+      
           <h2>
            Definitive Expertise
           </h2>
@@ -32,9 +32,9 @@ function AboutUs() {
             ,practical experience, we build strategies and systems </p>
       </div>
       <div className="experts">
-        <icon>
+        
           <EmojiPeopleRoundedIcon />
-        </icon>
+      
           <h2>
            Definitive Expertise
           </h2>

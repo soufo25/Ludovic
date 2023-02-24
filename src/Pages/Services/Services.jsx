@@ -10,9 +10,7 @@ function Services() {
     <h1 className='intro'>Our Services</h1>
     <div  className='service-wrapper'>
       <div className="info">
-        <icon>
       <SignalCellularAltIcon />
-        </icon>
         <h1>
       Business Growth
         </h1>
@@ -21,9 +19,9 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+        
         <HomeIcon />
-        </icon>
+       
         <h1>
         State Planning
         </h1>
@@ -32,9 +30,9 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+        
         <MonetizationOnRoundedIcon />
-        </icon>
+       
         <h1>
        Retirment Planning
         </h1>
@@ -43,9 +41,9 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+        
         <MonetizationOnRoundedIcon />
-        </icon>
+       
         <h1>
        Retirment Planning
         </h1>
@@ -54,9 +52,9 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+        
         <MonetizationOnRoundedIcon />
-        </icon>
+       
         <h1>
        Retirment Planning
         </h1>
@@ -65,9 +63,8 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+        
         <MonetizationOnRoundedIcon />
-        </icon>
         <h1>
        Retirment Planning
         </h1>
@@ -76,9 +73,8 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+        
         <MonetizationOnRoundedIcon />
-        </icon>
         <h1>
        Retirment Planning
         </h1>
@@ -87,9 +83,8 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+        
         <MonetizationOnRoundedIcon />
-        </icon>
         <h1>
        Retirment Planning
         </h1>
@@ -98,9 +93,8 @@ function Services() {
         </p>
       </div>
       <div className="info">
-        <icon>
+      
         <MonetizationOnRoundedIcon />
-        </icon>
         <h1>
        Retirment Planning
         </h1>

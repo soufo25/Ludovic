@@ -4,7 +4,7 @@ import { createBrowserRouter,RouterProvider, Outlet } from 'react-router-dom';
 import Home from './Pages/Home/Home';
 import Services from './Pages/Services/Services';
 import AboutUs from './Pages/About/AboutUs';
-import Footer from './Navbar/Footer/Footer';
+import Footer from './Footer/Footer';
 
 const Layout = ( )  => {
     return (
