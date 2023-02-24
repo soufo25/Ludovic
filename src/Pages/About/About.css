@@ -1,0 +1,67 @@
+:root{
+    --primary-color: hsl(0, 0%, 100%);
+   --secondary-color: hsl(212, 45%, 89%);
+   --third-color: hsl(220, 15%, 55%);
+  --last-color: hsl(218, 44%, 22%);
+  }
+
+  .about-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 25px;
+    padding: 25px  30px;
+    gap: 5px;;
+    overflow: hidden;
+   
+
+}
+
+
+  .experts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 50px;
+    background-color: burlywood;
+    overflow: hidden;
+    
+    
+   
+ }
+
+.about-us{
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 35px;
+}
+
+.main,
+.left,
+.center{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    padding: 25px 0px;
+}
+
+.center > img{
+    width: 100%;
+}
+
+button{
+    background-color: transparent;
+        border-radius: 0.5rem;
+        color: black;
+        padding: 10px 32px;
+        text-align: center;
+        cursor: pointer;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 30px;
+        font-weight: 600;
+}

@@ -1,0 +1,28 @@
+.service-wrapper{
+
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 30px;
+    margin: 0 25px;
+    justify-content:center ;
+    padding-top: 25px ;
+    border-radius: 0.5em;
+}
+
+.intro{
+    text-align: center;
+    padding: 15px 15px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0.5em;
+    background-color: hsl(220, 15%, 55%);
+    padding: 10px 10px;
+}
+
+.info > h1{
+    font-size: 18px;
+}
