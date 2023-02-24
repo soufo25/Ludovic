@@ -37,7 +37,7 @@ nav{
 
 .home,
 .about,
-.contacts,
+.blog,
 .services,
 .signup{
     text-decoration: none;
@@ -53,7 +53,7 @@ nav{
 
 .home:hover,
 .about:hover,
-.contacts:hover,
+.blog:hover,
 .services:hover,
 .signup:hover{
     color: aqua;
@@ -61,7 +61,7 @@ nav{
 
 .home:hover::after,
 .about:hover::after,
-.contacts:hover::after,
+.blog:hover::after,
 .services:hover::after,
 .signup:hover::after {
     content: "";
@@ -156,7 +156,7 @@ nav{
     
  .home,
  .about,
- .contacts,
+ .blog,
  .services,
  .signup{
     margin-bottom: 25px;

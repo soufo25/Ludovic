@@ -28,8 +28,8 @@ const Navbar = () => {
             <Link to= "/services" className='services'>
             <li >Services</li>
             </Link>
-            <Link to= "/contacts" className='contacts'>
-            <li >Contacts</li>
+            <Link to= "/blog" className='blog'>
+            <li >Blog</li>
             </Link>
             <Link to= "/signup" className='signup'>
             <li >Sign Up</li>
