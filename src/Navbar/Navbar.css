@@ -130,7 +130,7 @@ nav{
         top: 90px;
         right: -300px;
         min-width: 300px;
-        min-height:80vh;
+        min-height:70vh;
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
         padding: 40px 0 0 10px;
     }
@@ -143,10 +143,10 @@ nav{
         position: fixed;
         background-color: #2a3239 ;
         border-radius: 0.2em;
-        top: 90px;
+        top: 70px;
         right: 0px;
-        width: 300px;
-        height: 60vh;
+        width: 80%;
+        height: 80vh;
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
         padding: 40px 0 0 10px;
     }
